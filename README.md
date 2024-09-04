@@ -1,1 +1,1 @@
-![](/first-time-use.png)
+![](./first-time-use.png)
